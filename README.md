@@ -5,7 +5,11 @@
 ##### There were 7 datasets and 4 joins used in the project.
 
 
-### My part: Ethnocultural Diversity  -- Yanhui Gao
+### My Part: Ethnocultural Diversity  -- Yanhui Gao
 <img src="https://github.com/YanhuiGao/ThefirstLesson/blob/main/CST2106%20Tableau%20Project.png" width=100% />
 
-###
+### 2nd Part: Population and Immigrants Distribution in Canada -- Hui Xu
+<img src="https://github.com/YanhuiGao/ThefirstLesson/blob/main/2.Hui_Xu.png" width=100% />
+
+### 3rd Part: Source Countries and Destinations of Immigrants -- Dora Xiao Feng
+<img src="https://github.com/YanhuiGao/ThefirstLesson/blob/main/CST2106%20Tableau%20Project.png" width=100% />
