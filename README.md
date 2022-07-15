@@ -12,4 +12,4 @@
 <img src="https://github.com/YanhuiGao/ThefirstLesson/blob/main/2.Hui_Xu.png" width=100% />
 
 ### 3rd Part: Source Countries and Destinations of Immigrants -- Dora Xiao Feng
-<img src="https://github.com/YanhuiGao/ThefirstLesson/blob/main/CST2106%20Tableau%20Project.png" width=100% />
+<img src="https://github.com/YanhuiGao/ThefirstLesson/blob/main/3.Dora.png" width=100% />
